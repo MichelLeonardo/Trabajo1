@@ -1,6 +1,7 @@
 Algoritmo sin_titulo
 	Definir vector Como Real
 	Definir i Como Entero
+	definir l Como Real
 	Dimension vector[5]
 	Para i = 0 Hasta 4 Hacer
 		Escribir "Ingrese un número para la posición ", i + 1
